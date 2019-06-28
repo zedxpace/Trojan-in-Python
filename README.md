@@ -1,4 +1,5 @@
-# BlackHatPython-chapter7
+# BlackHatPython
+Trojan with github connectivity
 [ Github control & command ]
 - This is 100% working without any changes.
 - You just need to add your github details in the code like udername ,password ,repo etc

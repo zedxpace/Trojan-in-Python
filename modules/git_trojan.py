@@ -1,3 +1,4 @@
+##Code is explained in following page : https://codexpace.blogspot.com/2021/11/command-control-trojan-with-python.html
 import imp
 import json
 import base64

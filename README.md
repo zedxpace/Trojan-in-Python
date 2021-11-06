@@ -1,4 +1,5 @@
 # BlackHatPython
+##Code is explained in following page : https://codexpace.blogspot.com/2021/11/command-control-trojan-with-python.html 
 Trojan with github connectivity
 [ Github control & command ]
 - This is 100% working without any changes.
